@@ -1,14 +1,78 @@
-# AI Dashboard
+# 🧠 AI & Data Science Dashboard
 
-This is a simple AI/Data Science dashboard project using Flask and Pandas.
+This is a simple **Flask-based AI/Data Science Dashboard** project that summarizes a dataset and shows useful statistics in the browser.
 
-### Features
-- Loads a sample CSV dataset
-- Displays summary statistics in a clean UI
+---
 
-### Run the project
-```bash
-pip install -r requirements.txt
-python app.py
+## 🚀 Features
+- Built with **Python + Flask**
+- Displays **summary statistics** of sample dataset
+- Easy to run locally
+- Beginner-friendly AI/Data Science mini-project
+
+---
+
+## 📷 Screenshots
+
+### 1. GitHub Repository
+![Repo Screenshot](screenshots/repo.png)
+
+### 2. Flask Running in CMD
+![CMD Screenshot](screenshots/cmd.png)
+
+### 3. Browser Output
+![Dashboard Screenshot](screenshots/dashboard.png)
+
+*(Upload your screenshots inside a folder named `screenshots/` in this repo and replace the filenames above.)*
+
+---
+
+## ⚡ Installation & Run
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/TalalLiaquat/AI-Dashboard.git
+   cd AI-Dashboard
+   ```
+
+2. Create virtual environment:
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate    # For Windows
+   ```
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Run the project:
+   ```bash
+   python app.py
+   ```
+
+5. Open in browser:
+   ```
+   http://127.0.0.1:5000/
+   ```
+
+---
+
+## 📂 Project Structure
 ```
-Open browser at: http://127.0.0.1:5000/
+AI-Dashboard/
+│── app.py
+│── requirements.txt
+│── README.md
+│── templates/
+│    └── index.html
+│── static/
+│    └── style.css
+│── screenshots/
+```
+
+---
+
+## 🙌 Author
+**Talal Liaquat**  
+📌 Student of Computer Science | Exploring AI, Data Science & Development  
