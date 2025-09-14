@@ -11,21 +11,14 @@ This is a simple **Flask-based AI/Data Science Dashboard** project that summariz
 - Beginner-friendly AI/Data Science mini-project
 
 ---
-
 ## 📷 Screenshots
 
-### 1. GitHub Repository
-![Repo Screenshot](screenshots/repo.png)
+### 1. Flask Running in Terminal
+![Terminal Screenshot](screenshots/terminal.png)
 
-### 2. Flask Running in CMD
-![CMD Screenshot](screenshots/cmd.png)
-
-### 3. Browser Output
+### 2. Browser Output
 ![Dashboard Screenshot](screenshots/dashboard.png)
 
-*(Upload your screenshots inside a folder named `screenshots/` in this repo and replace the filenames above.)*
-
----
 
 ## ⚡ Installation & Run
 
