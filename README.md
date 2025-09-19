@@ -124,9 +124,7 @@ http://127.0.0.1:5000/
 👤 **Talal Liaquat**  
 📌 Student of Computer Science | Exploring **AI, Data Science & Development**  
 
-- 💼 LinkedIn: [linkedin.com/in/talalliaquat](https://www.linkedin.com/in/talalliaquat)  
-- 🐙 GitHub: [github.com/TalalLiaquat](https://github.com/TalalLiaquat)  
-- 📧 Email: [talal@example.com](kambohtalal@gmail.com)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/talalliaquat)  
 
 ---
 
